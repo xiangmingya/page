@@ -1,0 +1,141 @@
+{
+  "modules": [
+    {
+      "title": "考试查询",
+      "items": [
+
+        {
+          "icon": "data/imgs/四六考试.jpg",
+          "text": "四六级查询",
+          "url": "https://cet.neea.edu.cn"
+        },
+        {
+          "icon": "data/imgs/chu_kuai.jpg",
+          "text": "初会查询",
+          "url": "https://www.cicpa.org.cn"
+        },
+        {
+          "icon": "data/imgs/guo_er.jpg",
+          "text": "国二查询",
+          "url": "https://iam.neea.edu.cn/login.html?client_id=prod_query_web&response_type=code&redirect_uri=https%3A%2F%2Fcjcx.neea.edu.cn%2Fhtml1%2Ffolder%2F22014%2F5490-1.htm&scope=basic&state=84840080af057642450cb9557d972f8d79eba18fa8f0669709f4d6f91d803c467d0cf319cb760c41c3283a9f2ea8e380c22dbbe2cb3ad4d70fa293996b64f8e3"
+        },
+        {
+          "icon": "data/imgs/guo_er.jpg",
+          "text": "省二查询",
+          "url": "###"
+        },
+        {
+          "icon": "data/imgs/teach_exam.jpg",
+          "text": "教资查询",
+          "url": "https://iam.neea.edu.cn/login.html?client_id=prod_query_web&response_type=code&redirect_uri=https%3A%2F%2Fcjcx.neea.edu.cn%2Fhtml1%2Ffolder%2F21064%2F9282-1.htm&scope=basic&state=e84892dcd79bbfffa6101d00a7dc6d2b0fd69994f68d0afb8fe49169a0f044e180733ae5ba874b0e2e50add3472792b73383e3486c803429851d11c79ef2b2c1"
+        },
+        {
+          "icon": "data/imgs/putonghua_exam.jpg",
+          "text": "普通话查询",
+          "url": "http://ah.cltt.org"
+        }
+      ]
+    },
+    {
+      "title": "教师应用",
+      "items": [
+
+        {
+          "icon": "data/imgs/四六考试.jpg",
+          "text": "oa系统",
+          "url": "https://ca.bbc.edu.cn/lyuapServer/login?service=http%3A%2F%2Foa.bbc.edu.cn%2Fwui%2Fcas-entrance.jsp%3Bjsessionid%3DaaaR22eJKHgyga4oZiNvz%3Fpath%3D%252fspa%252fcoms%252fstatic4mobile%252findex.html%2523%252fmenu-preview%253fid%253dappDefaultPage%2526checkAccess%253d1"
+        },
+        {
+          "icon": "data/imgs/chu_kuai.jpg",
+          "text": "智慧财务",
+          "url": "https://www.cicpa.org.cn"
+        },
+        {
+          "icon": "data/imgs/chu_kuai.jpg",
+          "text": "移动学工",
+          "url": "https://ca.bbc.edu.cn/lyuapServer/login?service=https://xgxt.bbc.edu.cn/ydxg/shiro-cas"
+        },
+        {
+          "icon": "data/imgs/guo_er.jpg",
+          "text": "资产管理",
+          "url": "https://iam.neea.edu.cn/login.html?client_id=prod_query_web&response_type=code&redirect_uri=https%3A%2F%2Fcjcx.neea.edu.cn%2Fhtml1%2Ffolder%2F22014%2F5490-1.htm&scope=basic&state=84840080af057642450cb9557d972f8d79eba18fa8f0669709f4d6f91d803c467d0cf319cb760c41c3283a9f2ea8e380c22dbbe2cb3ad4d70fa293996b64f8e3"
+        }
+      ]
+    },
+    {
+      "title": "校园百科",
+      "items": [
+        {
+          "icon": "data/imgs/map.jpg",
+          "text": "校园地图",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/baike.jpg",
+          "text": "百科合集",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/phone.jpg",
+          "text": "校园电话",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/strategy.jpg",
+          "text": "新生攻略",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/vr.jpg",
+          "text": "VR校园",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/school_calendar.jpg",
+          "text": "校历",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "公共服务",
+      "items": [
+        {
+          "icon": "data/imgs/class_selection.jpg",
+          "text": "公选课类别",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/digital_teaching.jpg",
+          "text": "电子教务",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/digital_teaching.jpg",
+          "text": "教务通知",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/digital_teaching.jpg",
+          "text": "蚌院校友",
+          "url": "https://alumni.bbc.edu.cn/ydd/"
+        },
+        {
+          "icon": "data/imgs/contact_us.png",
+          "text": "图书馆预约",
+          "url": "#"
+        },
+        {
+          "icon": "data/imgs/contact_us.png",
+          "text": "蚌院报修",
+          "url": "https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx440527eb7a8e2720&redirect_uri=https%3A%2F%2Fmcp.bbc.edu.cn%2Fydxy_commonmodule%2Fopen%2Fwechat%2Fdispatch%3Fyyid%3Dhqwx_front%26pageCode%3Dcommon_auth&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect"
+        },
+        {
+          "icon": "data/imgs/calculator.png",
+          "text": "绩点计算",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
